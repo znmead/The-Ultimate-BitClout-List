@@ -85,9 +85,7 @@ https://bitclout.com/u/LazyNina
 https://bitclout.com/u/redpartyhat
 @redpartyhat
 https://bitclout.com/u/bluepartyhat
-@bluepartyhat
-
-|contributors|
+@bluepartyhat |contributors|
 https://bitclout.com/u/carsenk
 @carsenk
 https://bitclout.com/u/petern
