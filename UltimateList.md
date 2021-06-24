@@ -59,12 +59,12 @@ https://bitclout.com/u/bithunt
 @bithunt
 
 - News -
+https://bitclout.com/u/bruhmoments
+@bruhmoments
+
 https://bitstoday.medium.com/
 https://bitclout.com/u/BitsTODAY
 @BitsTODAY
-
-https://bitclout.com/u/bruhmoments
-@bruhmoments
 
 - Developer Docs -
 https://docs.bitclout.com/
