@@ -1,2 +1,2 @@
-# The-Ultimate-BitClout-LIst
+# The-Ultimate-BitClout-List
 The Ultimate BitClout List - Directory of Resources
