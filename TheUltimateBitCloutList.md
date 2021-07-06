@@ -9,6 +9,9 @@ https://bitclout.com/u/0to10k {Read from the bottom up}
 https://bitclout.com/u/nachoaveragecall
 @nachoaveragecall
 https://research.bitcloutpulse.com/bitclout-user-onboarding-guide/
+https://www.notion.so/Your-First-Few-Days-on-Bitclout-d78fb1e42e82459fbb5c12aa045ed61d
+@1dolinski
+https://bitclout.com/u/1dolinski
 
 - Trusted Community Leaders -
 https://bitclout.com/u/kanshi
