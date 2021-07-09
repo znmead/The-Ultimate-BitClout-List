@@ -23,6 +23,9 @@ https://bitclout.com/u/paulmp
 https://bitclout.com/u/clayoglesby
 @clayoglesby
 
+- Main Node Blacklist -
+https://bitclout-blacklist.web.app/
+
 - BitClout History - 
 http://cloutforum.org/
 https://bitclout.com/u/cloutforum
