@@ -79,6 +79,9 @@ https://docs.bitclout.com/
 https://www.cloutapis.com/
 https://bitclout.com/u/cloutapis
 @cloutapis
+Buidl a project: 
+https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js
+https://github.com/memgraph/bitclout-visualizing-hodlers
 
 - Developers -
 |members|
