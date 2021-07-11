@@ -1,166 +1,171 @@
-* Ultimate BitClout Toolset *
-https://bitclout.com/posts/005de3a6001370ee78d3e777fa7fd677b35350ec3ada90d8a65235b559daeb9e
+# [Ultimate BitClout Toolset](https://bitclout.com/posts/005de3a6001370ee78d3e777fa7fd677b35350ec3ada90d8a65235b559daeb9e)
 
-- Onboarding -
-https://bitclout.com/u/allaboard
-@allaboard
-https://bitclout.com/u/0to10k {Read from the bottom up}
-@0to10k
-https://bitclout.com/u/nachoaveragecall
-@nachoaveragecall
-https://research.bitcloutpulse.com/bitclout-user-onboarding-guide/
-https://www.notion.so/Your-First-Few-Days-on-Bitclout-d78fb1e42e82459fbb5c12aa045ed61d
-@1dolinski
-https://bitclout.com/u/1dolinski
+## Onboarding
 
-- Trusted Community Leaders -
-https://bitclout.com/u/kanshi
-@kanshi
-https://bitclout.com/u/clayperrymusic
-@clayperrymusic
-https://bitclout.com/u/paulmp
-@paulmp
-https://bitclout.com/u/clayoglesby
-@clayoglesby
+- [BitClout User Onboarding Guide](https://research.bitcloutpulse.com/bitclout-user-onboarding-guide/)
 
-- Main Node Blacklist -
-https://bitclout-blacklist.web.app/
+- [Your First Few Days on BitClout](https://www.notion.so/Your-First-Few-Days-on-Bitclout-d78fb1e42e82459fbb5c12aa045ed61d)
 
-- Node Directory - 
-https://bitcloutnode.directory/
-https://bitclout.com/u/bitcloutnodedirectory
+- [@nachoaveragecall](https://bitclout.com/u/nachoaveragecall)
 
-- BitClout Search Engines -
-https://cloutavista.com/
-https://bitclout.com/u/cloutavista
+- [@allaboard](https://bitclout.com/u/allaboard)
 
-https://cloutini.com/
-https://bitclout.com/u/cloutini
+- [@0to10k](https://bitclout.com/u/0to10k) (Read from bottom up)
 
-https://search.tijn.club/
-https://bitclout.com/u/tijn
+- [@1dolinski](https://bitclout.com/u/1dolinski)
 
-- BitClout History - 
-http://cloutforum.org/
-https://bitclout.com/u/cloutforum
-@CloutForum
+## Trusted Community Leaders
 
-- Block Explorers -
-https://explorer.cloutangel.com/
-https://bitclout.com/u/cloutangel
-@CloutAngel
-https://explorer.bitclout.com/
+- [@krassenstein](https://bitclout.com/u/krassenstein)
 
-- Account Analysis -
-https://bitcloutsignal.com/
-https://bitclout.com/u/bitcloutsignal
-@bitcloutsignal
+- [@tijn](https://bitclout.com/u/tijn)
 
-https://clouteye.com/
-https://bitclout.com/u/clouteye
-@CloutEye
+- [@kanshi](https://bitclout.com/u/kanshi)
 
-https://www.prosperclout.com/
-https://bitclout.com/u/prosperclout
-@ProsperClout
+- [@clayperrymusic](https://bitclout.com/u/clayperrymusic)
 
-https://cloutgate.com/
-https://bitclout.com/u/cloutgate
-@CloutGate
+- [@paulmp](https://bitclout.com/u/paulmp)
 
-- Off-Platform Trusted Trading -
-https://www.bitcloutpulse.com/
-https://bitclout.com/u/bitcloutpulse
-@bitcloutpulse
+- [@clayoglesby](https://bitclout.com/u/clayoglesby)
 
-- Project Analysis -
-https://bithunt.com/
-https://bitclout.com/u/bithunt
-@bithunt
+## Main Node Blacklist
 
-- News -
-https://bitclout.com/u/bruhmoments
-@bruhmoments
+[BitClout Blacklist](https://bitclout-blacklist.web.app/)
 
-https://bitstoday.medium.com/
-https://bitclout.com/u/BitsTODAY
-@BitsTODAY
+## Node Directories -
 
-- Developer Docs -
-https://docs.bitclout.com/
+- [BitCloutNode.Directory](https://bitcloutnode.directory/) - [@BitCloutNodeDirectory](https://bitclout.com/u/bitcloutnodedirectory)
 
-- Developer Tools -
-https://www.cloutapis.com/
-https://bitclout.com/u/cloutapis
-@cloutapis
-Buidl a project: 
-https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js
-https://github.com/memgraph/bitclout-visualizing-hodlers
+## BitClout Search Engines
 
-- Developers -
-|members|
-https://bitclout.com/u/diamondhands
-@diamondhands
-https://bitclout.com/u/maebeam
-@maebeam
-https://bitclout.com/u/LazyNina
-@lazynina
-https://bitclout.com/u/redpartyhat
-@redpartyhat
-https://bitclout.com/u/bluepartyhat
-@bluepartyhat |contributors|
-https://bitclout.com/u/carsenk
-@carsenk
-https://bitclout.com/u/petern
-@petern
+### 1. CloutaVisa
 
-- Repos -
-https://github.com/bitclout
+- [Website](https://cloutavista.com/) - [@cloutavista](https://bitclout.com/u/cloutavista)
 
-https://github.com/bitclout/backend
+### 2. Cloutini
 
-https://github.com/bitclout/frontend
+- [Website](https://cloutini.com/) - [@cloutini](https://bitclout.com/u/cloutini)
 
-https://github.com/bitclout/identity
+### 3. Tijn Search
 
-https://github.com/bitclout/core
+- [Website (node) ](https://search.tijn.club/) - [@tijn](https://bitclout.com/u/tijn)
 
-https://github.com/bitclout/rosetta-bitclout
+## BitClout History
 
-https://github.com/bitclout/run
+- [Cloutforum](http://cloutforum.org/) - [@CloutForum](https://bitclout.com/u/cloutforum)
 
-https://github.com/bitclout/docs
+## Block Explorers
 
-https://github.com/bitclout/mongodb-dumper
+- [Clout Angel](https://explorer.cloutangel.com/) - [@cloutangel](https://bitclout.com/u/cloutangel)
 
-https://github.com/bitclout/go-deadlock
+- [Explorer.BitClout.com](https://explorer.bitclout.com/)
 
-https://github.com/bitclout/glog
+## Account Analysis
 
-https://github.com/bitclout/go-merkle-tree
+- [BitCloutSignal](https://bitcloutsignal.com/) - [@bitcloutsignal](https://bitclout.com/u/bitcloutsignal)
 
-https://github.com/bitclout/desktop
+- [Clout Eye](https://clouteye.com/) - [@CloutEye](https://bitclout.com/u/clouteye)
 
-https://github.com/bitclout/hdkey
+- [ProsperClout](https://www.prosperclout.com/) - [@ProsperClout](https://bitclout.com/u/prosperclout)
 
-https://github.com/bitclout/explorer
+- [CloutGate](https://cloutgate.com/) - [@CloutGate](https://bitclout.com/u/cloutgate)
 
-https://github.com/bitclout/confetti-js
+## Off-Platform Trusted Trading
 
-- Trusted Mobile Apps -
-https://www.flickapp.com/bitclout
-https://bitclout.com/u/flickapp
-@flickapp
+- [BitCloutPulse](https://www.bitcloutpulse.com/) - [@bitcloutpulse](https://bitclout.com/u/bitcloutpulse)
 
-https://bitclout.com/u/cloutfeed
-@cloutfeed
-https://apps.apple.com/app/id1561532815
+## Project Analysis
 
-- Community Projects Directory -
-https://bithunt.com/
-https://bitclout.com/u/bithunt
-@bithunt
+- [BitHunt](https://bithunt.com/) - [@bithunt](https://bitclout.com/u/bithunt)
 
-- Node Directory - 
-https://bitclout.com/u/BitcloutNodeList
-@BitcloutNodeList
+## News
+
+[@bruhmoments](https://bitclout.com/u/bruhmoments)
+
+- [BitsToday](https://bitstoday.medium.com/) - [@BitsTODAY](https://bitclout.com/u/BitsTODAY)
+
+## Developer Docs
+
+- [Developer Docs](https://docs.bitclout.com/)
+
+## Developer Tools
+
+- [CloutAPIs](https://www.cloutapis.com/) - [@cloutapis](https://bitclout.com/u/cloutapis)
+
+## Buidl a project
+
+### Memgraph
+
+- [Visualize The BitClout Network Using D3JS](https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js)
+
+- [BitClout Visualizing Hodlers](https://github.com/memgraph/bitclout-visualizing-hodlers)
+
+## Developers
+
+### Core Devs
+
+- [@diamondhands 💎](https://bitclout.com/u/diamondhands)
+
+- [@maebeam 💎](https://bitclout.com/u/maebeam)
+
+- [@lazynina 💎](https://bitclout.com/u/LazyNina)
+
+- [@redpartyhat 💎](https://bitclout.com/u/redpartyhat)
+
+- [@bluepartyhat 💎](https://bitclout.com/u/bluepartyhat)
+
+- [@merlin 💎](https://bitclout.com/u/merlin)
+
+### Contributors
+
+- [@carsenk](https://bitclout.com/u/carsenk)
+
+- [@petern](https://bitclout.com/u/petern)
+
+## GitHub Repos
+
+- [BitClout](https://github.com/bitclout)
+
+- [Backend](https://github.com/bitclout/backend)
+
+- [Frontend](https://github.com/bitclout/frontend)
+
+- [Identity](https://github.com/bitclout/identity)
+
+- [Core](https://github.com/bitclout/core)
+
+- [Rosetta BitClout](https://github.com/bitclout/rosetta-bitclout)
+
+- [Run](https://github.com/bitclout/run)
+
+- [Docs](https://github.com/bitclout/docs)
+
+- [MongoDB Dumper](https://github.com/bitclout/mongodb-dumper)
+
+- [GO Deadlock](https://github.com/bitclout/go-deadlock)
+
+- [Glog](https://github.com/bitclout/glog)
+
+- [GO Merkle Tree](https://github.com/bitclout/go-merkle-tree)
+
+- [Desktop](https://github.com/bitclout/desktop)
+
+- [hdkey](https://github.com/bitclout/hdkey)
+
+- [Explorer](https://github.com/bitclout/explorer)
+
+- [Confetti JS](https://github.com/bitclout/confetti-js)
+
+## Trusted Mobile Apps
+
+1. [FlickApp](https://www.flickapp.com/bitclout) - [@flickapp](https://bitclout.com/u/flickapp)
+
+2. [@cloutfeed](https://bitclout.com/u/cloutfeed) - [App Store](https://apps.apple.com/app/id1561532815)
+
+## Community Projects Directory
+
+- [BitHunt](https://bithunt.com/) - [@bithunt](https://bitclout.com/u/bithunt)
+
+## Node Directory
+
+- [@BitCloutNodeList](https://bitclout.com/u/BitcloutNodeList)
