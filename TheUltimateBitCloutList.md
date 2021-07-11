@@ -26,7 +26,7 @@ https://bitclout.com/u/clayoglesby
 - Main Node Blacklist -
 https://bitclout-blacklist.web.app/
 
-- Node Director - 
+- Node Directory - 
 https://bitcloutnode.directory/
 https://bitclout.com/u/bitcloutnodedirectory
 
